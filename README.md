@@ -1,6 +1,6 @@
 # flybycan — Frontend Engineer
 
-简洁专业的个人简介页面，聚焦技术与联系信息。
+简洁专业的个人简介页面，聚焦技术与个人项目展示。
 
 ## 简介
 
@@ -17,11 +17,6 @@
 
 - 在个人仓库中展示精选的前端项目（请查看 Repositories）。
 
-## 联系方式
-
-- 邮箱：<a href="mailto:flybycan@gmail.com">flybycan@gmail.com</a>
-- GitHub：<a href="https://github.com/flybycan" target="_blank">https://github.com/flybycan</a>
-
 ---
 
-（已移除 README 中的占位链接与可能失效的外部资源，保持页面简洁专业。）
+（已移除所有直接联系方式与可能失效的外部链接，保持页面简洁专业。）
